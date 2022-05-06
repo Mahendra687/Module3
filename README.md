@@ -7,12 +7,9 @@ Hyperparameters
 - Objectives and time schedule
 
 #### What you will learn
-
-In the previous modules, we showed how to create, train, predict, and even evaluate a predictive model. However, we did not change on the models’ parameters that can be given when creating an instance. For example, for k-nearest neighbors, we initially used this default parameter: n_neighbors=5 before trying other model parameters.
-
-These parameters are called hyperparameters: they are parameters used to control the learning process, for instance the parameter k of the k-nearest neighbors. Hyperparameters are specified by the user, often manually tuned (or by an exhaustive automatic search), and cannot be estimated from the data. They should not be confused with the other parameters that are inferred during the training process. These parameters define the model itself, for instance coef_ for the linear models.
-
-In this module, we will first show that the hyperparameters have an impact on the performance of the model and that default values are not necessarily the best option. Subsequently, we will show how to set hyperparameters in scikit-learn model. Finally, we will show strategies allowing to pick-up a combination of hyperparameters that maximizes model’s performance.
+* In the previous modules, we showed how to create, train, predict, and even evaluate a predictive model. However, we did not change on the models’ parameters that can be given when creating an instance. For example, for k-nearest neighbors, we initially used this default parameter: n_neighbors=5 before trying other model parameters.
+* These parameters are called hyperparameters: they are parameters used to control the learning process, for instance the parameter k of the k-nearest neighbors. Hyperparameters are specified by the user, often manually tuned (or by an exhaustive automatic search), and cannot be estimated from the data. They should not be confused with the other parameters that are inferred during the training process. These parameters define the model itself, for instance coef_ for the linear models.
+* In this module, we will first show that the hyperparameters have an impact on the performance of the model and that default values are not necessarily the best option. Subsequently, we will show how to set hyperparameters in scikit-learn model. Finally, we will show strategies allowing to pick-up a combination of hyperparameters that maximizes model’s performance.
 
 #### Before getting started
 The required technical skills to carry on this module are:
