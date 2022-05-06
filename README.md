@@ -1,5 +1,3 @@
-Hyperparameters
-
 ### Contents: hyperparameters
 
 - What you will learn
