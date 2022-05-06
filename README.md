@@ -1,6 +1,6 @@
 Hyperparameters
 
-### Contents
+### Contents: hyperparameters
 
 - What you will learn
 - Before getting started
